@@ -10,7 +10,9 @@ console.log("arr : ", arr[1])
 
 let person ={
     name: 'max',
-    age: '15'
-
+    age: '15',
+    gender: 'male'
+    
+    
 }
 console.log(person.name)
