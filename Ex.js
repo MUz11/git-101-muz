@@ -13,6 +13,5 @@ let person ={
     age: '15',
     gender: 'male'
     
-    
 }
 console.log(person.name)
